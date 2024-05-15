@@ -9,6 +9,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Cube />}></Route>
         <Route path="/sphere" element={<Sphere />}></Route>
+        <Route path="/box" element={<Cube />}></Route>
       </Routes>
     </div>
   );
