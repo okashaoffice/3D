@@ -75,7 +75,8 @@ function Sphere() {
       </div>
       <div className="absolute top-0 left-1/2 -translate-x-1/2  pt-12">
         <ul>
-          <Link to="/box">
+          <Link to="/
+          ">
             <li className="text-white font-bold text-5xl cursor-pointer">
               <HiMiniCube />
             </li>
